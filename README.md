@@ -11,3 +11,10 @@ This dataset was donwloaded from kaggle, which contains historical information a
 ## Analysis
 
 The aim of this analysis is to meticulously explore and clean the data to ensure it is primed for further analysis. Following this preparatory stage, the goal is to find an optimal solution based on a suitable machine learning algorithm capable of accurately identifying fraudulent transactions.
+
+## Technologies used
+
+- Python
+- Pandas for data manipulation
+- seaborn and matplotlib for data visualization
+- sklearn for model training
